@@ -12,7 +12,7 @@
 * Training program overview slide created
 
 ## Slides
-Download slide in PDF. [HERE] (TBA)
+Download slide in PDF. [HERE](https://morokotsakal.github.io/wro-fi-kh/01-Overview/WRO23-FI-01_Overview.pdf)
 
 ![](./01-Overview/img/Slide01.png)
 ![](./01-Overview/img/Slide02.png)
