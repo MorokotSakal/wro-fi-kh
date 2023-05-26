@@ -6,7 +6,8 @@
 
 ## Overview
 * This repo contains training materials for World Robotics Olympiad - Future Innovators. 
-* Target audience: high school student in Cambodia
+* Target audience: 
+  * teachers & students in Cambodian high school
 
 ### Ver 1.0 (2023)
 * Training program overview slide created
