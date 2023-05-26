@@ -1,7 +1,7 @@
 # World Robotics Olympiad - Future Innovator: Training Program Materials
 
 ## Links
-* [Git Hub](TBA)
+* [Git Hub] (TBA)
 * [Web Page] (TBA)
 
 ## Overview
