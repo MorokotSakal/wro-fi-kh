@@ -1,7 +1,7 @@
 # World Robotics Olympiad - Future Innovator: Training Program Materials
 
 ## Links
-* [Git Hub](https://github.com/MorokotSakal/wro-fi-kh)
+* [GitHub](https://github.com/MorokotSakal/wro-fi-kh)
 * [Web Page](https://morokotsakal.github.io/wro-fi-kh/)
 
 ## Overview
